@@ -1,0 +1,2 @@
+cd $PBS_O_WORKDIR
+python main.py --data_dir cifar-10 --output_dir op
